@@ -16,6 +16,17 @@ export default {
           "Noto Color Emoji",
         ],
       },
+      colors: {
+        // Ocean Professional theme anchors
+        ocean: {
+          primary: "#2563EB", // blue-600
+          secondary: "#F59E0B", // amber-500
+          error: "#EF4444",
+          surface: "#ffffff",
+          background: "#f9fafb",
+          text: "#111827",
+        },
+      },
     },
   },
   plugins: [],
